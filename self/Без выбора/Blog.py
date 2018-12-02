@@ -43,9 +43,9 @@ class Comment(Post):
 
 
 if __name__ == "__main__":
-    post = Post("Jopa", "Jopas post", "Title of jopas post")
-    post.add_comment(Comment("Not jopa", "Jopa is jopa"))
-    post.add_comment(Comment("Not not jopa", "Python sux"))
+    post = Post("Post author name", "Post content", "Title of this post")
+    post.add_comment(Comment("Comment author name", "Comment content"))
+    post.add_comment(Comment("Another comment author name", "Another comment content"))
 
     print("POST")
     post.show()
