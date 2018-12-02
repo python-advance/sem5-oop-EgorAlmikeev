@@ -1,3 +1,5 @@
+# задание для подгруппы 1
+
 class Book:
     def __init__(self, author, title):
         self.author = author
