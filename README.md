@@ -1,5 +1,7 @@
 # sem5-oop-1
 
+[Ссылка для создания своего репозитория по данному заданию](https://classroom.github.com/assignment-invitations/c77c6af001287b3d25004ec8e8363fbd/)
+
 ### Лабораторная работа
 1. __Первая подгруппа__
    * Перейти по [ссылке](https://repl.it/@zhukov/RuddyValidCad-1) и выполнить задание.
